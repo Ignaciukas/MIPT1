@@ -3,4 +3,6 @@
     <string name="app_name">MIPT 1 praktikos darbas</string>
     <string name="title">Hello World</string>
     <string name="initial_text">Paspausk mygtuką</string>
+    <string name="show_text">Rodyti tekstą</string>
+    <string name="hello_text">Labas, pasauli!</string>
 </resources>
