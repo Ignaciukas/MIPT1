@@ -44,5 +44,14 @@
             android:text="@string/show_text"
             android:textAllCaps="false" />
 
+        <Button
+            android:id="@+id/textColorButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="48dp"
+            android:layout_marginBottom="8dp"
+            android:text="@string/change_color"
+            android:textAllCaps="false" />
+
     </LinearLayout>
 </ScrollView>

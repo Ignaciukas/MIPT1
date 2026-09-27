@@ -5,4 +5,5 @@
     <string name="initial_text">Paspausk mygtuką</string>
     <string name="show_text">Rodyti tekstą</string>
     <string name="hello_text">Labas, pasauli!</string>
+    <string name="change_color">Keisti teksto spalvą</string>
 </resources>
