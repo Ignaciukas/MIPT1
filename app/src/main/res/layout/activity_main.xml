@@ -53,5 +53,14 @@
             android:text="@string/change_color"
             android:textAllCaps="false" />
 
+        <Button
+            android:id="@+id/backgroundButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="48dp"
+            android:layout_marginBottom="8dp"
+            android:text="@string/change_background"
+            android:textAllCaps="false" />
+
     </LinearLayout>
 </ScrollView>
