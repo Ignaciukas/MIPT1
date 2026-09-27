@@ -6,4 +6,5 @@
     <string name="show_text">Rodyti tekstą</string>
     <string name="hello_text">Labas, pasauli!</string>
     <string name="change_color">Keisti teksto spalvą</string>
+    <string name="change_background">Keisti teksto foną</string>
 </resources>

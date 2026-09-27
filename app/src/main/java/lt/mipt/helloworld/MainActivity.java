@@ -24,5 +24,9 @@ public class MainActivity extends AppCompatActivity {
         Button textColorButton = findViewById(R.id.textColorButton);
         textColorButton.setOnClickListener(view ->
                 messageTextView.setTextColor(Color.rgb(21, 101, 192)));
+
+        Button backgroundButton = findViewById(R.id.backgroundButton);
+        backgroundButton.setOnClickListener(view ->
+                messageTextView.setBackgroundColor(Color.rgb(255, 224, 130)));
     }
 }
