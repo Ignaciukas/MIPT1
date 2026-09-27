@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MIPT 1 praktikos darbas</string>
+    <string name="title">Hello World</string>
+    <string name="initial_text">Paspausk mygtuką</string>
+</resources>
